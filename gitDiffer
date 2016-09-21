@@ -1,0 +1,15 @@
+#!/usr/bin/env groovy
+
+def getDiff(){
+
+}
+
+def getChangedFiles(){
+
+}
+
+def getChangedLines(){
+
+}
+
+return this
