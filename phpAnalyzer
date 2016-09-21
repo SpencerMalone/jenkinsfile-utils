@@ -1,0 +1,7 @@
+#!/usr/bin/env groovy
+
+def analyzePHP(){
+
+}
+
+return this
