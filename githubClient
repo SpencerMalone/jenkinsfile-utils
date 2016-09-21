@@ -1,0 +1,33 @@
+#!/usr/bin/env groovy
+
+def location = ""
+def repo = ""
+def key = ""
+
+def setKey(keyParam){
+  key = keyParam
+}
+
+def setRepo(repoParam){
+  repo = repoParam
+}
+
+def setLocation(locationParam){
+  location = locationParam
+}
+
+def getComments(pullRequestID){
+
+}
+
+def postComment(comment){
+
+}
+
+def postInlineComment(comment,file,lineNumber){
+
+}
+
+def setStatus(state,target_url,description,name){
+
+}
