@@ -1,0 +1,15 @@
+#!/usr/bin/env groovy
+
+def lintJS(){
+
+}
+
+def lintCSS(){
+
+}
+
+def lintPHP(){
+
+}
+
+return this
